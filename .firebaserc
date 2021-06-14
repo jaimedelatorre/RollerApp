@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "roller-app-31c49": {
+      "hosting": {
+        "roller-app": [
+          "roller-app-31c49"
+        ]
+      }
+    }
+  }
+}
